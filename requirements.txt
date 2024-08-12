@@ -1,0 +1,6 @@
+fastapi[standard]
+sqlalchemy
+pymysql
+PyMySQL[rsa]
+cryptography
+jinja2
