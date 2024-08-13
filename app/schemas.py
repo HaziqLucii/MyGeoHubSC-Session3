@@ -1,18 +1,17 @@
 # UNTUK BLUEPRINT / RESPONSE API
 from pydantic import BaseModel
 
-# -- User Schemas --
 class UserBase(BaseModel):
     name: str
     job: str
 
-
 class UserCreate(UserBase):
-    pass
-
+    username: str
+    password: str
 
 class User(UserBase):
     id: int
+    username: str
 
 
 # -- Layer Schemas --

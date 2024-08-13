@@ -4,3 +4,4 @@ pymysql
 PyMySQL[rsa]
 cryptography
 jinja2
+passlib
