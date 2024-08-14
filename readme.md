@@ -18,17 +18,20 @@ pada file requirements.txt, tambah :
 
 setelah itu, make build semula pada terminal / cmd.
 
----
+------------------------------
 
 Step untuk membangun aplikasi fastapi
 
-(first time sahaja) :
+(first time sahaja)
+* Create folder aplikasi, nama folder terpulang.
+* Dalam folder tersebut perlu create file :
+
 1. database.py
 2. models.py
 3. schemas.py
 4. crud.py
 5. main.py
-
+6. __init__.py
 
 Common step :
 1. models.py
