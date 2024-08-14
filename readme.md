@@ -13,8 +13,8 @@ FASTAPI SECURITY (OAUTH2 & JWT)
 Link Github : https://shorturl.at/BdrDo
 
 pada file requirements.txt, tambah :
-passlib
-pyjwt
+- passlib
+- pyjwt
 
 setelah itu, make build semula pada terminal / cmd.
 
