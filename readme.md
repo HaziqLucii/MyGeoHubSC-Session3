@@ -18,6 +18,8 @@ pada file requirements.txt, tambah :
 
 setelah itu, make build semula pada terminal / cmd.
 
+---
+
 Step untuk membangun aplikasi fastapi
 
 (first time sahaja) :
